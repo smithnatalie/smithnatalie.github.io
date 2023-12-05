@@ -1,67 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T05:12:02.920Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rqB1cdKW9BmJslsozQSO" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T05:19:51.266Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4InoGs6ydF7vELW6k4DP" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1105" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1083" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="AJWlGYHfF26ewffK7bx9-30" value="" style="text;strokeColor=#000000;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="27" y="-30" width="790" height="560" as="geometry" />
+          <mxGeometry x="27" y="-30" width="790" height="510" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJWlGYHfF26ewffK7bx9-12" target="AJWlGYHfF26ewffK7bx9-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="292" y="48" />
+              <mxPoint x="292" y="25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-12" value="virginia_laws.csv&lt;br&gt;maryland_laws.csv&lt;br&gt;dc_laws.csv" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="42" y="73" width="180" height="75" as="geometry" />
+          <mxGeometry x="42" y="50" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJWlGYHfF26ewffK7bx9-16" target="AJWlGYHfF26ewffK7bx9-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="552" y="58" />
+              <mxPoint x="552" y="35" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-16" value="selenium.ipynb" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="282" y="73" width="230" height="80" as="geometry" />
+          <mxGeometry x="282" y="50" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJWlGYHfF26ewffK7bx9-18" target="AJWlGYHfF26ewffK7bx9-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-18" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;virginia_laws.csv&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;maryland_laws.csv&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;dc_laws.csv&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="608" y="73" width="180" height="75" as="geometry" />
+          <mxGeometry x="608" y="50" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-20" value="UPDATED" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="638" y="43" width="120" height="30" as="geometry" />
+          <mxGeometry x="638" y="20" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJWlGYHfF26ewffK7bx9-22" target="AJWlGYHfF26ewffK7bx9-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-22" value="law_cleaning.py" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="583" y="180" width="230" height="80" as="geometry" />
+          <mxGeometry x="583" y="157" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJWlGYHfF26ewffK7bx9-24" target="AJWlGYHfF26ewffK7bx9-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-24" value="tf_idf.py" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="240" width="230" height="80" as="geometry" />
+          <mxGeometry x="420" y="217" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJWlGYHfF26ewffK7bx9-26" target="AJWlGYHfF26ewffK7bx9-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-26" value="inverse_doc_matrix.py" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="327" width="230" height="80" as="geometry" />
+          <mxGeometry x="260" y="304" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-28" value="clean_data.csv" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="42" y="410" width="180" height="77" as="geometry" />
+          <mxGeometry x="42" y="387" width="180" height="77" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-33" value="Data Gathering and Cleaning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="42" y="-10" width="760" height="30" as="geometry" />
+          <mxGeometry x="42" y="-20" width="760" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AJWlGYHfF26ewffK7bx9-35" value="" style="text;strokeColor=#000000;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="27" y="550" width="790" height="560" as="geometry" />
+          <mxGeometry x="27" y="494" width="790" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="AJWlGYHfF26ewffK7bx9-37" value="Information Retrieval" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="42" y="504" width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AJWlGYHfF26ewffK7bx9-38" value="" style="text;strokeColor=#000000;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="27" y="760" width="790" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="AJWlGYHfF26ewffK7bx9-39" value="Content Generation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="42" y="770" width="760" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
